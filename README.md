@@ -1,6 +1,6 @@
 # TDEE Calculator
 
-A target-weight TDEE calculator in the same visual system as Meat Math.
+A target-weight TDEE calculator.
 
 Enter target weight, height, age, sex, and activity level to estimate daily maintenance calories, BMR, activity add-on, and simple fat-loss targets.
 
